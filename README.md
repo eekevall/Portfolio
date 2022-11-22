@@ -6,4 +6,4 @@ View and download my portfolio here:
 
 View and download my resume here:
 
-[Elsa Elizabeth Ekevall Resume.pdf](https://github.com/eekevall/Portfolio-and-Resume/Elsa_Elizabeth_Ekevall_Resume.pd)
+[Elsa Elizabeth Ekevall Resume.pdf](https://github.com/eekevall/Portfolio-and-Resume/Elsa_Elizabeth_Ekevall_Resume.pdf)
