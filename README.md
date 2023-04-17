@@ -10,4 +10,4 @@ View and download my resume here:
 
 You will also find an overview of everything here on my website:
 
-[eekevall.github.io/website/e](https://eekevall.github.io/website/)
+[eekevall.github.io/website](https://eekevall.github.io/website/)
